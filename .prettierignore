@@ -1,0 +1,36 @@
+# 📦 Node ve log dosyaları
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+logs/
+*.log
+**/*.min.js
+**/vendor/**
+**/dist/**
+**/node_modules/**
+**/legacy/**
+# ⚙️ Git klasörü
+.git/
+
+# 🧪 Test ve geçici klasörler
+coverage/
+temp/
+tmp/
+
+# 📄 Bazı README veya sabit dosyalar
+README.md
+
+# 🧱 Template içeren özel JS dosyaları (bozulmaması gerekenler)
+**/jsspec.js
+**/matcher.js
+**/matchers/*.js
+
+# 🧩 Diğer olası template dosyaları
+**/*.ejs
+**/*.erb
+**/*.hbs
+**/*.mustache
+
+# 🔤 <% içeren dosyalar (template içerikli)
+**/*<%*
