@@ -1,4 +1,4 @@
-# 🐙 GitHub Fork & Enhancement Bot
+# 🐙 GitHub Fork & Enhancement Bot 
 
 This bot automatically forks random repositories from GitHub based on configurable criteria, applies various automated enhancements, and optionally creates Pull Requests (PRs) with the changes.
 
