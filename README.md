@@ -26,7 +26,7 @@ It is designed to work with **automation pipelines** that:
 - Forks repositories to your GitHub account.
 - Clones them locally for modification.
 
-### 3. **Enhancement Modules**
+### 3. **Enhancement Modules** 
 The bot includes modular scripts for specific improvements:
 
 | Module | Purpose |
